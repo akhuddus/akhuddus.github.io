@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abdul Khuddus</title>
-    <link>http://akhuddus.github.io/</link>
-    <description>Recent content on Abdul Khuddus</description>
+    <title>Posts on Abdul Khuddus</title>
+    <link>http://akhuddus.github.io/posts/</link>
+    <description>Recent content in Posts on Abdul Khuddus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2023 16:11:57 -0700</lastBuildDate><atom:link href="http://akhuddus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Sep 2023 16:11:57 -0700</lastBuildDate><atom:link href="http://akhuddus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume of Khuddus</title>
       <link>http://akhuddus.github.io/posts/about-me/</link>

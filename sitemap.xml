@@ -2,10 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://khuddus.site/</loc>
+    <loc>http://akhuddus.github.io/</loc>
+    <lastmod>2023-09-06T16:11:57-07:00</lastmod>
   </url><url>
-    <loc>http://khuddus.site/categories/</loc>
+    <loc>http://akhuddus.github.io/posts/</loc>
+    <lastmod>2023-09-06T16:11:57-07:00</lastmod>
   </url><url>
-    <loc>http://khuddus.site/tags/</loc>
+    <loc>http://akhuddus.github.io/posts/about-me/</loc>
+    <lastmod>2023-09-06T16:11:57-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/test/</loc>
+    <lastmod>2023-09-06T12:58:23-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/go-group-cache/</loc>
+    <lastmod>2021-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/go-graphs/</loc>
+    <lastmod>2021-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/rest-conf/</loc>
+    <lastmod>2021-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/yang/</loc>
+    <lastmod>2021-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/zk-proofs/</loc>
+    <lastmod>2020-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/digital-certs/</loc>
+    <lastmod>2019-08-26T16:07:57-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/aes-cbc-gcm/</loc>
+    <lastmod>2019-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/aes256/</loc>
+    <lastmod>2019-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/radius/</loc>
+    <lastmod>2018-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/8021x/</loc>
+    <lastmod>2017-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/sorting-algo/</loc>
+    <lastmod>2014-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/swagger/</loc>
+    <lastmod>2014-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/posts/lets-go/</loc>
+    <lastmod>2012-06-26T10:03:49-07:00</lastmod>
+  </url><url>
+    <loc>http://akhuddus.github.io/categories/</loc>
+  </url><url>
+    <loc>http://akhuddus.github.io/tags/</loc>
   </url>
 </urlset>
