@@ -2,144 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abdul Khuddus</title>
-    <link>http://akhuddus.github.io/</link>
+    <link>https://akhuddus.github.io/</link>
     <description>Recent content on Abdul Khuddus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2023 16:11:57 -0700</lastBuildDate><atom:link href="http://akhuddus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Sep 2023 16:11:57 -0700</lastBuildDate><atom:link href="https://akhuddus.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume of Khuddus</title>
-      <link>http://akhuddus.github.io/posts/about-me/</link>
+      <link>https://akhuddus.github.io/posts/about-me/</link>
       <pubDate>Wed, 06 Sep 2023 16:11:57 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/about-me/</guid>
+      <guid>https://akhuddus.github.io/posts/about-me/</guid>
       <description>Introduction I&amp;rsquo;m a Software Engineer in the San Francisco bayarea. I develop network security software applications on the linux platform. My current work is focused on Zero Trust Framework and related applications in network security domain. I hold Bachelors degree in Electrical and Electronics Engineering and also a graduate certificate in Cyber Security with academic work in Computer and Network Security and Blockchain Technologies. I can code in golang, java, python, perl, nodejs and c++.</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>http://akhuddus.github.io/posts/test/</link>
+      <link>https://akhuddus.github.io/posts/test/</link>
       <pubDate>Wed, 06 Sep 2023 12:58:23 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/test/</guid>
+      <guid>https://akhuddus.github.io/posts/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GO group cache</title>
-      <link>http://akhuddus.github.io/posts/go-group-cache/</link>
+      <link>https://akhuddus.github.io/posts/go-group-cache/</link>
       <pubDate>Sat, 26 Jun 2021 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/go-group-cache/</guid>
+      <guid>https://akhuddus.github.io/posts/go-group-cache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go-graphs</title>
-      <link>http://akhuddus.github.io/posts/go-graphs/</link>
+      <link>https://akhuddus.github.io/posts/go-graphs/</link>
       <pubDate>Sat, 26 Jun 2021 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/go-graphs/</guid>
+      <guid>https://akhuddus.github.io/posts/go-graphs/</guid>
       <description>This post describes the representation of a graph datastrcture using golang and the implementation of for-free premitives that are useful for solving problems related to graph algorithms.
 A graph is a set of objects and the pairwise relationsship between the objects. Mathematically, Graph is a function of nodes and the edges connecting these nodes. Though a graph can be represented in golang using purely maps and slices but such representation does not sound more generic to handle the arbitrary identifiers.</description>
     </item>
     
     <item>
       <title>RESTCONF</title>
-      <link>http://akhuddus.github.io/posts/rest-conf/</link>
+      <link>https://akhuddus.github.io/posts/rest-conf/</link>
       <pubDate>Sat, 26 Jun 2021 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/rest-conf/</guid>
+      <guid>https://akhuddus.github.io/posts/rest-conf/</guid>
       <description>Being migrated&amp;hellip;</description>
     </item>
     
     <item>
       <title>YANG</title>
-      <link>http://akhuddus.github.io/posts/yang/</link>
+      <link>https://akhuddus.github.io/posts/yang/</link>
       <pubDate>Sat, 26 Jun 2021 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/yang/</guid>
+      <guid>https://akhuddus.github.io/posts/yang/</guid>
       <description>Being migrated&amp;hellip;</description>
     </item>
     
     <item>
       <title>Zero Knowledge Proofs</title>
-      <link>http://akhuddus.github.io/posts/zk-proofs/</link>
+      <link>https://akhuddus.github.io/posts/zk-proofs/</link>
       <pubDate>Fri, 26 Jun 2020 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/zk-proofs/</guid>
+      <guid>https://akhuddus.github.io/posts/zk-proofs/</guid>
       <description>Being migrated&amp;hellip;</description>
     </item>
     
     <item>
       <title>Digital Certificates</title>
-      <link>http://akhuddus.github.io/posts/digital-certs/</link>
+      <link>https://akhuddus.github.io/posts/digital-certs/</link>
       <pubDate>Mon, 26 Aug 2019 16:07:57 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/digital-certs/</guid>
+      <guid>https://akhuddus.github.io/posts/digital-certs/</guid>
       <description>Being migrated&amp;hellip;</description>
     </item>
     
     <item>
       <title>AES CBC vs GCM</title>
-      <link>http://akhuddus.github.io/posts/aes-cbc-gcm/</link>
+      <link>https://akhuddus.github.io/posts/aes-cbc-gcm/</link>
       <pubDate>Wed, 26 Jun 2019 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/aes-cbc-gcm/</guid>
+      <guid>https://akhuddus.github.io/posts/aes-cbc-gcm/</guid>
       <description>Being migrated&amp;hellip;</description>
     </item>
     
     <item>
       <title>AES256 really needed?</title>
-      <link>http://akhuddus.github.io/posts/aes256/</link>
+      <link>https://akhuddus.github.io/posts/aes256/</link>
       <pubDate>Wed, 26 Jun 2019 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/aes256/</guid>
+      <guid>https://akhuddus.github.io/posts/aes256/</guid>
       <description>Being migrated&amp;hellip;</description>
     </item>
     
     <item>
       <title>RADIUS</title>
-      <link>http://akhuddus.github.io/posts/radius/</link>
+      <link>https://akhuddus.github.io/posts/radius/</link>
       <pubDate>Tue, 26 Jun 2018 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/radius/</guid>
+      <guid>https://akhuddus.github.io/posts/radius/</guid>
       <description>Being migrated&amp;hellip;</description>
     </item>
     
     <item>
       <title>802.1x</title>
-      <link>http://akhuddus.github.io/posts/8021x/</link>
+      <link>https://akhuddus.github.io/posts/8021x/</link>
       <pubDate>Mon, 26 Jun 2017 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/8021x/</guid>
+      <guid>https://akhuddus.github.io/posts/8021x/</guid>
       <description>Being migrated&amp;hellip;</description>
     </item>
     
     <item>
       <title>Sorting Algorithms</title>
-      <link>http://akhuddus.github.io/posts/sorting-algo/</link>
+      <link>https://akhuddus.github.io/posts/sorting-algo/</link>
       <pubDate>Thu, 26 Jun 2014 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/sorting-algo/</guid>
+      <guid>https://akhuddus.github.io/posts/sorting-algo/</guid>
       <description>Being migrated&amp;hellip;</description>
     </item>
     
     <item>
       <title>swagger</title>
-      <link>http://akhuddus.github.io/posts/swagger/</link>
+      <link>https://akhuddus.github.io/posts/swagger/</link>
       <pubDate>Thu, 26 Jun 2014 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/swagger/</guid>
+      <guid>https://akhuddus.github.io/posts/swagger/</guid>
       <description>Being migrated&amp;hellip;</description>
     </item>
     
     <item>
       <title>Let&#39;s go</title>
-      <link>http://akhuddus.github.io/posts/lets-go/</link>
+      <link>https://akhuddus.github.io/posts/lets-go/</link>
       <pubDate>Tue, 26 Jun 2012 10:03:49 -0700</pubDate>
       
-      <guid>http://akhuddus.github.io/posts/lets-go/</guid>
+      <guid>https://akhuddus.github.io/posts/lets-go/</guid>
       <description>Disclaimer: All the posts in my blog are my own opinions and are purely based on my understanding. I write this blog as a reference for my own learnings and can be useful for others. I(Abdul Khuddus) claim no responsibility or liability for any errors or omissions in the content of this site. The information contained in this site is provided on an &amp;ldquo;as is&amp;rdquo; basis with no gurantees of completeness, accuracy, usefulness or timeliness whtout any warranties of any kind whatsoever, express or impllied.</description>
     </item>
     
